@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-cohere
+langgraph
+langgraph-checkpoint-sqlite
+faiss-cpu
+pypdf
+duckduckgo-search
+streamlit
+requests
